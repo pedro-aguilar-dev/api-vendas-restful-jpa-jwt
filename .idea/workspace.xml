@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6800c631-e4a7-416d-a714-8837c526568d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vendas-spring-projeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/DTO/UsuarioDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/DTO/PedidoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/DTO/PedidoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/VendasApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/ItemPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/classesDeDominio/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/PedidoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/PedidoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/controllers/ProdutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/exception/MSGEspecificaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/exception/RegraNegocioException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/repositoriosJPA/PedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/repositoriosJPA/PedidoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/service/PedidoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pedro/aguilar/service/implementacao/PedidoServceImple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/VendasApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/VendasApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/ItemPedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/ItemPedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Pedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Pedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/classesDeDominio/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/ClienteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/ClienteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/PedidoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/PedidoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/ProdutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/controllers/ProdutoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/repositoriosJPA/ItemPedidoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/repositoriosJPA/ItemPedidoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/repositoriosJPA/PedidoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/repositoriosJPA/PedidoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/pedro/aguilar/service/PedidoService.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mqjkd5x9OQxGPr26LDpmAtp4Lr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VendasApplicationBanco" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.pedro.aguilar.enums" />
+      <recent name="io.pedro.aguilar.DTO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendasApplication">
+    <configuration name="JwtService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.pedro.aguilar.jwt.JwtService" />
+      <module name="vendas-spring-projeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.pedro.aguilar.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.pedro.aguilar.VendasApplication" />
+      <module name="Downloads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.pedro.aguilar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendasApplication" />
+        <item itemvalue="Application.JwtService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6800c631-e4a7-416d-a714-8837c526568d" name="Default Changelist" comment="" />
+      <created>1677648015078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677648015078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="21" key="#VendasApplication" timestamp="1679699809306">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="229" y="21" key="#VendasApplication/0.0.1024.728@0.0.1024.728" timestamp="1679699809306" />
+    <state x="317" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1679689843353">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="317" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728@0.0.1024.728" timestamp="1679689843353" />
+    <state x="345" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679160680142">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="345" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728@0.0.1024.728" timestamp="1679160680142" />
+    <state x="292" y="117" key="FileChooserDialogImpl" timestamp="1679090902883">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="117" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1679090902883" />
+    <state width="965" height="177" key="GridCell.Tab.0.bottom" timestamp="1679700731851">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="965" height="177" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1679700731851" />
+    <state width="965" height="177" key="GridCell.Tab.0.center" timestamp="1679700731851">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="965" height="177" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1679700731851" />
+    <state width="965" height="177" key="GridCell.Tab.0.left" timestamp="1679700731410">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="965" height="177" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1679700731410" />
+    <state width="965" height="177" key="GridCell.Tab.0.right" timestamp="1679700731851">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="965" height="177" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1679700731851" />
+    <state x="-150" y="13" key="SettingsEditor" timestamp="1679205396676">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="-150" y="13" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1679205396676" />
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1679685229181">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="207" y="186" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1679685229181" />
+    <state x="170" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1679257658239">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="170" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1024.728@0.0.1024.728" timestamp="1679257658239" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1679097975325">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1679097975325" />
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1679249996491">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728@0.0.1024.728" timestamp="1679249996491" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
